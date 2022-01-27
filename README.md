@@ -6,11 +6,11 @@ You can find the code at the NICA cluster as well
 /scratch1/vvolkov/ScWall_QA_27_01_22/
 ```
 # How to run:
-
+```
 [user@ncx106 BMN]$ root -l -b **(don't forget the -b key)**  
 root [0] .L ScintWall_scan.cpp  
 root [1] scan()  
-
+```
 You should set a path to the .root file first  
 ```
 TFile *_file0 = TFile::Open("/path/root_file_name.root");
