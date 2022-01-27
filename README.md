@@ -7,7 +7,7 @@ You can find the code at the NICA cluster as well
 ```
 # How to run:
 
-[user@ncx106 BMN]$ root -l -b (don't forget the -b key)  
+[user@ncx106 BMN]$ root -l -b **(don't forget the -b key)**  
 root [0] .L ScintWall_scan.cpp  
 root [1] scan()  
 
