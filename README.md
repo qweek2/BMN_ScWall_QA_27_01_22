@@ -23,3 +23,5 @@ The *map.pdf* file contains several maps of the ScWall and added automatically t
 gSystem->Exec("pdfunite h1.pdf map.pdf result.pdf");
 ```
 Note that the root map has an inverted X axis unlike the map in *Slide_ScWall.pptx* file, so check the 1st *map.pdf* slide to compare with ScWall histos.
+
+The *src1.root* file is a test file with which the code is guaranteed to work.
