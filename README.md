@@ -1,6 +1,10 @@
 # BMN_ScWall_QA_27_01_22
 QA for February shifts (2022)
 
+You can find the code at the NICA cluster as well  
+```
+/scratch1/vvolkov/ScWall_QA_27_01_22/
+```
 # How to run:
 
 [user@ncx106 BMN]$ root -l -b (don't forget the -b key)  
